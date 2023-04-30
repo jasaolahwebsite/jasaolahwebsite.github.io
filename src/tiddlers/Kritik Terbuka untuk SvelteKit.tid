@@ -1,7 +1,9 @@
 created: 20230430130426399
-modified: 20230430130551161
+modified: 20230430210119239
 tags: 
 title: Kritik Terbuka untuk SvelteKit
 type: text/vnd.tiddlywiki
 
 Entah kenapa SvelteKit ini SSRnya lama banget kalau untuk blog. Soalnya kan, blog itu terdiri dari kumpulan Markdown. Lalu, dipanggil semuanya dengan `import.meta.glob()`.
+
+Jadi kayaknya lebih cepat jika menggunakan Astro untuk membuat website statis.
