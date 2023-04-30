@@ -1,0 +1,29 @@
+---
+import gambar from "../data/gambar";
+import Kotak from "./kotak.astro";
+
+const { posisi } = Astro.props;
+
+let gambar_filter = [];
+for (let n in gambar) {
+  if (posisi == "kiri") {
+    if (n % 2 != 0) {
+      gambar_filter.push(gambar[n]);
+    }
+  } else {
+    if (n % 2 == 0) {
+      gambar_filter.push(gambar[n]);
+    }
+  }
+}
+---
+
+{
+  gambar_filter.map((x) => (
+    <>
+      <Kotak>
+        <img src={x} alt="" />
+      </Kotak>
+    </>
+  ))
+}

@@ -1,0 +1,14 @@
+---
+import data from "../tiddlers/published.json";
+import KotakPostingan from "./kotak-postingan.astro";
+---
+
+<div class="grid grid-cols-1 gap-4">
+  {
+    data.map((x) => (
+      <a href={x.slug}>
+        <KotakPostingan title={x.title} text={x.excerpt} />
+      </a>
+    ))
+  }
+</div>
