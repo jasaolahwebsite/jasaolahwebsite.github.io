@@ -1,6 +1,6 @@
 created: 20230428214824386
-modified: 20230429230217088
-published_date: 2023043007021788
+modified: 20230430092307682
+published_date: 20230430172307681
 tags: Published
 title: Cara Mudah Menentukan Supply and Demand
 type: text/vnd.tiddlywiki
@@ -23,12 +23,4 @@ Kelihatan kan ya di situ bahwa terjadi beberapa kali pantulan ketika candlebar s
 
 Akan tetapi, yang jadi masalah adalah hanya aplikasi Ajaib Kripto yang ada fitur ini. Kalau di aplikasi Pluang, cuma ada Market Order. Ya otomatis nggak ada deh SL dan TP. Terus, apa solusinya?
 
-Caranya adalah dengan mengikuti tren. Jadi, di sini aku akan pakai EMA Cross:
-
-[img[https://user-images.githubusercontent.com/7939342/235278731-40adbb05-5e72-4956-93a6-36a63beb8527.png]]
-
-Jadi, ketika candlestick berada di atas EMA Cross, kita bisa beli. Lalu, ketika sudah mencapai 6%, bisa TP. Kalau turun ke 2%, langsung kita SL.
-
-Manual sih.
-
-Tapi, daripada kita dari Pluang, terus kirim ke Ajaib Kripto, lalu nanti pas withdraw, tarik ke Pluang lagi. Itu akan makan banyak biaya.
+Ya kita pindah ke Ajaib Kripto sih. Tapi harapannya fitur ini akan hadir di Pluang dalam waktu dekat. Kata CSnya Pluang sih, fitur ini akan hadir.
