@@ -10,6 +10,9 @@ dependencies:
   kumpulan-tools:
     specifier: ^1.0.0
     version: 1.0.0
+  striptags:
+    specifier: ^3.2.0
+    version: 3.2.0
   unocss:
     specifier: ^0.51.8
     version: 0.51.8(postcss@8.4.23)(vite@4.3.3)
@@ -2996,6 +2999,10 @@ packages:
   /strip-final-newline@3.0.0:
     resolution: {integrity: sha512-dOESqjYr96iWYylGObzd39EuNTa5VJxyvVAEm5Jnh7KGo75V43Hk1odPQkNDyXNmUR6k+gEiDVXnjB8HJ3crXw==}
     engines: {node: '>=12'}
+    dev: false
+
+  /striptags@3.2.0:
+    resolution: {integrity: sha512-g45ZOGzHDMe2bdYMdIvdAfCQkCTDMGBazSw1ypMowwGIee7ZQ5dU0rBJ8Jqgl+jAKIv4dbeE1jscZq9wid1Tkw==}
     dev: false
 
   /suf-log@2.5.3:
