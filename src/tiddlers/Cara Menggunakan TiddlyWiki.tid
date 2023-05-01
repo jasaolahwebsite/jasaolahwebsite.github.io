@@ -1,0 +1,24 @@
+created: 20230501083828071
+modified: 20230501084007382
+published_date: 20230501164007380
+tags: Published
+title: Cara Menggunakan TiddlyWiki
+type: text/vnd.tiddlywiki
+
+!! Instalasi
+
+```bash
+npm i -g tiddlywiki
+```
+
+!! Buat Folder TiddlyWiki
+
+```bash
+tiddlywiki wiki --init server
+```
+
+!! Menjalankan TiddlyWiki
+
+```bash
+tiddlywiki wiki --listen
+```

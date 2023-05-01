@@ -14,6 +14,13 @@
 				"excerpt" : "<p>Untuk biaya jasa olah website, itu 150 ribu per hari. Tapi, nggak usah khawatir dengan harga yang nantinya akan besar, karena pembayarannya bisa dicicil.</p><p>Jadi memang tergantung tingkat kesulitan sih. Kalau</p>",
 				"cover_image" : ""
 			},{
+				"title" : "Cara Menggunakan TiddlyWiki",
+				"published_date" : "20230501164007380",
+				"slug" : "cara-menggunakan-tiddlywiki",
+				"text" : "<h2 class=\"\">Instalasi</h2><pre class=\"hljs\"><code class=\"bash hljs\">npm i -g tiddlywiki</code></pre><h2 class=\"\">Buat Folder <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --init server</code></pre><h2 class=\"\">Menjalankan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --listen</code></pre>",
+				"excerpt" : "<h2 class=\"\">Instalasi</h2><pre class=\"hljs\"><code class=\"bash hljs\">npm i -g tiddlywiki</code></pre><h2 class=\"\">Buat Folder <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --init server</code></pre><h2 class=\"\">Menjalankan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --listen</code></pre>",
+				"cover_image" : ""
+			},{
 				"title" : "Cara Mudah Menentukan Supply and Demand",
 				"published_date" : "20230430172307681",
 				"slug" : "cara-mudah-menentukan-supply-and-demand",
