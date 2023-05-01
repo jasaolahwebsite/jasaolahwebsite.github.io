@@ -6,7 +6,7 @@ const { title, text } = Astro.props;
 
 <Kotak>
   <div
-    class="m-4 [&>*]:mb-3 [&_img]:block [&_img]:mx-auto [&_h1,h2,h3,h4,h5,h6]:uppercase [&_h1,h2,h3,h4,h5,h6]:!font-bold"
+    class="m-4 [&>*]:mb-3 [&_img]:block [&_img]:mx-auto [&_h1,h2,h3,h4,h5,h6]:uppercase [&_h1,h2,h3,h4,h5,h6]:!font-bold [&_a]:underline [&_pre]:overflow-auto [&_pre]:bg-gray-100"
   >
     <h1>{title}</h1>
     <Fragment set:html={text} />

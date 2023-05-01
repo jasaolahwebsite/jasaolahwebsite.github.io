@@ -25,5 +25,5 @@ export function getStaticPaths() {
 ---
 
 <Default judulnya={title}>
-  <KotakPostingan title={title} text={text} />
+  <KotakPostingan title={title} text={text.replaceAll("./#", "/")} />
 </Default>

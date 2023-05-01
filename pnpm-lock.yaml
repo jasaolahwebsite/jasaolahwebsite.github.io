@@ -7,6 +7,9 @@ dependencies:
   astro:
     specifier: ^2.3.2
     version: 2.3.2
+  kumpulan-tools:
+    specifier: ^1.0.0
+    version: 1.0.0
   unocss:
     specifier: ^0.51.8
     version: 0.51.8(postcss@8.4.23)(vite@4.3.3)
@@ -1898,6 +1901,10 @@ packages:
 
   /kolorist@1.8.0:
     resolution: {integrity: sha512-Y+60/zizpJ3HRH8DCss+q95yr6145JXZo46OTpFvDZWLfRCE4qChOyk1b26nMaNpfHHgxagk9dXT5OP0Tfe+dQ==}
+    dev: false
+
+  /kumpulan-tools@1.0.0:
+    resolution: {integrity: sha512-8RzuLboxhTjMBjp7TbnqOnDYmV4ZATGZof37ccgREsEcg0O6ywc+nC9yyKhRKpx8jyo3+gVWusfAdN287IxoaA==}
     dev: false
 
   /load-yaml-file@0.2.0:
