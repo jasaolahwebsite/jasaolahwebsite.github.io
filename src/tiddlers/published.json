@@ -1,5 +1,12 @@
 [
 		{
+				"title" : "Bahagia Itu adalah Ketika Merasa Terpenuhi",
+				"published_date" : "20230502161724198",
+				"slug" : "bahagia-itu-adalah-ketika-merasa-terpenuhi",
+				"text" : "<p>Bahagia itu ketika melihat air di ember kamar mandi penuh, kerjaan yang semuanya sudah selesai, pakaian yang semuanya sudah dicuci, hapalan Quran yang semuanya sudah tuntas, tulisan buku yang sudah sampai epilog, bacaan buku yang sudah sampai khatam. Semuanya adalah tentang merasa \"penuh\".</p><p><em>Fullfilness.</em></p><p>Ketika semuanya belum penuh, berusahalah untuk memenuhinya. Berusaha sampai ke penghujungnya. Berusaha sampai tuntas, sampai akhir hayatnya.</p><p>Itulah bahagia.</p>",
+				"excerpt" : "<p>Bahagia itu ketika melihat air di ember kamar mandi penuh, kerjaan yang semuanya sudah selesai, pakaian yang semuanya sudah dicuci, hapalan Quran yang semuanya sudah tuntas, tulisan buku yang sudah</p>",
+				"cover_image" : ""
+			},{
 				"title" : "Bekerja Memang Capek",
 				"published_date" : "20230501145239623",
 				"slug" : "bekerja-memang-capek",
@@ -29,10 +36,10 @@
 				"cover_image" : ""
 			},{
 				"title" : "Cara Menggunakan TiddlyWiki",
-				"published_date" : "20230501164007380",
+				"published_date" : "20230502160737108",
 				"slug" : "cara-menggunakan-tiddlywiki",
-				"text" : "<h2 class=\"\">Instalasi</h2><pre class=\"hljs\"><code class=\"bash hljs\">npm i -g tiddlywiki</code></pre><h2 class=\"\">Buat Folder <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --init server</code></pre><h2 class=\"\">Menjalankan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --listen</code></pre><h2 class=\"\">Plugins</h2><p>Untuk menginstall plugin, tinggal seret aja link berikut ke <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a> yang kamu miliki</p><h3 class=\"\">Relink</h3>",
-				"excerpt" : "<h2 class=\"\">Instalasi</h2><pre class=\"hljs\"><code class=\"bash hljs\">npm i -g tiddlywiki</code></pre><h2 class=\"\">Buat Folder <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --init server</code></pre><h2 class=\"\">Menjalankan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --listen</code></pre><h2 class=\"\">Plugins</h2><p>Untuk menginstall plugin, tinggal seret aja link berikut ke <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a> yang kamu miliki</p><h3 class=\"\">Relink</h3>",
+				"text" : "<h2 class=\"\">Instalasi</h2><pre class=\"hljs\"><code class=\"bash hljs\">npm i -g tiddlywiki</code></pre><h2 class=\"\">Buat Folder <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --init server</code></pre><h2 class=\"\">Menjalankan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --listen</code></pre>",
+				"excerpt" : "<h2 class=\"\">Instalasi</h2><pre class=\"hljs\"><code class=\"bash hljs\">npm i -g tiddlywiki</code></pre><h2 class=\"\">Buat Folder <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --init server</code></pre><h2 class=\"\">Menjalankan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a></h2><pre class=\"hljs\"><code class=\"bash hljs\">tiddlywiki wiki --listen</code></pre>",
 				"cover_image" : ""
 			},{
 				"title" : "Cara Mudah Menentukan Supply and Demand",

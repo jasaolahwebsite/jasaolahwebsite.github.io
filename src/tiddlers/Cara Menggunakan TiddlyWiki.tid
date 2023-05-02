@@ -1,6 +1,6 @@
 created: 20230501083828071
-modified: 20230502023653265
-published_date: 20230501164007380
+modified: 20230502080737109
+published_date: 20230502160737108
 tags: Published
 title: Cara Menggunakan TiddlyWiki
 type: text/vnd.tiddlywiki
@@ -23,8 +23,3 @@ tiddlywiki wiki --init server
 tiddlywiki wiki --listen
 ```
 
-!! Plugins
-
-Untuk menginstall plugin, tinggal seret aja link berikut ke TiddlyWiki yang kamu miliki
-
-!!! Relink
