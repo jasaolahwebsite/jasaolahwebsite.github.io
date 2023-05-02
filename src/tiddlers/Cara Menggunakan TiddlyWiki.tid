@@ -1,5 +1,5 @@
 created: 20230501083828071
-modified: 20230501102120543
+modified: 20230502023653265
 published_date: 20230501164007380
 tags: Published
 title: Cara Menggunakan TiddlyWiki
@@ -27,4 +27,4 @@ tiddlywiki wiki --listen
 
 Untuk menginstall plugin, tinggal seret aja link berikut ke TiddlyWiki yang kamu miliki
 
-!!! 
+!!! Relink
