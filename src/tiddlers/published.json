@@ -14,6 +14,13 @@
 				"excerpt" : "<p>Untuk biaya jasa olah website, itu 150 ribu per hari. Tapi, nggak usah khawatir dengan harga yang nantinya akan besar, karena pembayarannya bisa dicicil.</p><p>Jadi memang tergantung tingkat kesulitan sih. Kalau</p>",
 				"cover_image" : ""
 			},{
+				"title" : "Cara Menggunakan Plugin Kotak-Kotak Landing Page",
+				"published_date" : "20230502120709274",
+				"slug" : "cara-menggunakan-plugin-kotak-kotak-landing-page",
+				"text" : "<p>Plugin ini akan merapikan konten yang dimiliki dalam bentuk kotak-kotak dengan dua kolom</p><h2 class=\"\">Contoh Jadinya</h2><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/234778510-1bc6b728-5816-44d6-9da3-b777201d2306.png\"></p><h2 class=\"\">Cara Pakai </h2><pre class=\"hljs\"><code class=\"html hljs\">[kotak_kotak]\n\n[kotak judul=&quot;Pertama&quot;]\nIni konten pertama\n[/kotak]\n\n[kotak judul=&quot;Kedua&quot;]\nIni konten kedua\n[/kotak]\n\n[/kotak_kotak]</code></pre>",
+				"excerpt" : "<p>Plugin ini akan merapikan konten yang dimiliki dalam bentuk kotak-kotak dengan dua kolom</p><h2 class=\"\">Contoh Jadinya</h2><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/234778510-1bc6b728-5816-44d6-9da3-b777201d2306.png\"></p><h2 class=\"\">Cara Pakai </h2><pre class=\"hljs\"><code class=\"html hljs\">[kotak_kotak]\n\n[kotak judul=&quot;Pertama&quot;]\nIni konten pertama\n[/kotak]\n\n[kotak judul=&quot;Kedua&quot;]\nIni konten kedua\n[/kotak]\n\n[/kotak_kotak]</code></pre>",
+				"cover_image" : ""
+			},{
 				"title" : "Cara Menggunakan Plugin Profil Dosen",
 				"published_date" : "20230502111641433",
 				"slug" : "cara-menggunakan-plugin-profil-dosen",
