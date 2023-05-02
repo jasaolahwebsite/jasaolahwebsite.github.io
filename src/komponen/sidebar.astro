@@ -6,7 +6,7 @@ import {acak} from "kumpulan-tools"
 const { posisi } = Astro.props;
 
 let gambar_filter = [];
-for (let n in acak(gambar)) {
+for (let n in gambar) {
   if (posisi == "kiri") {
     if (n % 2 != 0) {
       gambar_filter.push(gambar[n]);
