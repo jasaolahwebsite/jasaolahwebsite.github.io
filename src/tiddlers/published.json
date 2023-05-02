@@ -77,6 +77,13 @@
 				"excerpt" : "<p>Yang namanya mengaji, membaca Qur'an, harus dengan perlahan dan fokus. Supaya kita bisa menangkap makna di dalam bacaan tersebut. Jika kita belum mendapatkannya, berarti waktunya yang kurang. Harus ditambah lagi.</p>",
 				"cover_image" : ""
 			},{
+				"title" : "Kritik Terbuka untuk SvelteKit",
+				"published_date" : "20230502210358226",
+				"slug" : "kritik-terbuka-untuk-sveltekit",
+				"text" : "<p>Entah kenapa <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#sveltekit\">SvelteKit</a> ini SSRnya lama banget kalau untuk blog. Soalnya kan, blog itu terdiri dari kumpulan Markdown. Lalu, dipanggil semuanya dengan <code>import.meta.glob()</code>.</p><p>Jadi kayaknya lebih cepat jika menggunakan Astro untuk membuat website statis.</p><p>Habis tu, seringnya error seperti ini kalau menggunakan <code>import.meta.glob()</code>:</p><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/235674307-9c959034-b745-4edb-8aa0-c1313c598a29.png\"></p>",
+				"excerpt" : "<p>Entah kenapa <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#sveltekit\">SvelteKit</a> ini SSRnya lama banget kalau untuk blog. Soalnya kan, blog itu terdiri dari kumpulan Markdown. Lalu, dipanggil semuanya dengan <code>import.meta.glob()</code>.</p><p>Jadi kayaknya lebih cepat jika menggunakan Astro untuk</p>",
+				"cover_image" : ""
+			},{
 				"title" : "Tidak Perlu Merencanakan",
 				"published_date" : "20230501160643210",
 				"slug" : "tidak-perlu-merencanakan",
