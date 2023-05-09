@@ -7,13 +7,6 @@
 				"excerpt" : "<p>Afiliasi itu bukan cara utama untuk memperoleh cuan di internet. Kalau aku, yang pertama itu tetap menggunakan Adsense atau Admob. Nah, kita nggak bisa mendapatkan Adsense atau Admob, barulah menggunakan</p>",
 				"cover_image" : ""
 			},{
-				"title" : "Bahagia Itu adalah Ketika Merasa Terpenuhi",
-				"published_date" : "20230502161724198",
-				"slug" : "bahagia-itu-adalah-ketika-merasa-terpenuhi",
-				"text" : "<p>Bahagia itu ketika melihat air di ember kamar mandi penuh, kerjaan yang semuanya sudah selesai, pakaian yang semuanya sudah dicuci, hapalan Quran yang semuanya sudah tuntas, tulisan buku yang sudah sampai epilog, bacaan buku yang sudah sampai khatam. Semuanya adalah tentang merasa \"penuh\".</p><p><em>Fullfilness.</em></p><p>Ketika semuanya belum penuh, berusahalah untuk memenuhinya. Berusaha sampai ke penghujungnya. Berusaha sampai tuntas, sampai akhir hayatnya.</p><p>Itulah bahagia.</p>",
-				"excerpt" : "<p>Bahagia itu ketika melihat air di ember kamar mandi penuh, kerjaan yang semuanya sudah selesai, pakaian yang semuanya sudah dicuci, hapalan Quran yang semuanya sudah tuntas, tulisan buku yang sudah</p>",
-				"cover_image" : ""
-			},{
 				"title" : "Bekerja Memang Capek",
 				"published_date" : "20230501145239623",
 				"slug" : "bekerja-memang-capek",
@@ -31,8 +24,8 @@
 				"title" : "Cara Menggunakan Plugin Kotak-Kotak Landing Page",
 				"published_date" : "20230502120709274",
 				"slug" : "cara-menggunakan-plugin-kotak-kotak-landing-page",
-				"text" : "<p>Plugin ini akan merapikan konten yang dimiliki dalam bentuk kotak-kotak dengan dua kolom</p><h2 class=\"\">Contoh Jadinya</h2><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/234778510-1bc6b728-5816-44d6-9da3-b777201d2306.png\"></p><h2 class=\"\">Cara Pakai </h2><pre class=\"hljs\"><code class=\"html hljs\">[kotak_kotak]\n\n[kotak judul=&quot;Pertama&quot;]\nIni konten pertama\n[/kotak]\n\n[kotak judul=&quot;Kedua&quot;]\nIni konten kedua\n[/kotak]\n\n[/kotak_kotak]</code></pre>",
-				"excerpt" : "<p>Plugin ini akan merapikan konten yang dimiliki dalam bentuk kotak-kotak dengan dua kolom</p><h2 class=\"\">Contoh Jadinya</h2><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/234778510-1bc6b728-5816-44d6-9da3-b777201d2306.png\"></p><h2 class=\"\">Cara Pakai </h2><pre class=\"hljs\"><code class=\"html hljs\">[kotak_kotak]\n\n[kotak judul=&quot;Pertama&quot;]\nIni konten pertama\n[/kotak]\n\n[kotak judul=&quot;Kedua&quot;]\nIni konten kedua\n[/kotak]\n\n[/kotak_kotak]</code></pre>",
+				"text" : "<p>Plugin ini akan merapikan konten yang dimiliki dalam bentuk kotak-kotak dengan dua kolom</p><h2 class=\"\">Contoh Jadinya</h2><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/234778510-1bc6b728-5816-44d6-9da3-b777201d2306.png\"></p><h2 class=\"\">Cara Pakai </h2><pre class=\"hljs\"><code class=\"html hljs\">[kotak_kotak]\n\n[kotak judul=&quot;Pertama&quot;]\r\nIni konten pertama\r\n[/kotak]\n\n[kotak judul=&quot;Kedua&quot;]\r\nIni konten kedua\r\n[/kotak]\n\n[/kotak_kotak]</code></pre>",
+				"excerpt" : "<p>Plugin ini akan merapikan konten yang dimiliki dalam bentuk kotak-kotak dengan dua kolom</p><h2 class=\"\">Contoh Jadinya</h2><p><img class=\" tc-image-loading\" src=\"https://user-images.githubusercontent.com/7939342/234778510-1bc6b728-5816-44d6-9da3-b777201d2306.png\"></p><h2 class=\"\">Cara Pakai </h2><pre class=\"hljs\"><code class=\"html hljs\">[kotak_kotak]\n\n[kotak judul=&quot;Pertama&quot;]\r\nIni konten pertama\r\n[/kotak]\n\n[kotak judul=&quot;Kedua&quot;]\r\nIni konten kedua\r\n[/kotak]\n\n[/kotak_kotak]</code></pre>",
 				"cover_image" : ""
 			},{
 				"title" : "Cara Menggunakan Plugin Profil Dosen",
@@ -68,13 +61,6 @@
 				"slug" : "kehidupan-setelah-kematian-itu-nyata",
 				"text" : "<p>Aku kadang merasa aneh pada orang yang merasa bahwa nggak ada yang namanya kehidupan setelah kematian.</p><p>Padahal, kematian aja adalah nyata.</p><p>Kita semua pasti mengalami mati.</p><p>Jadi, nggak mungkin kan nggak ada kehidupan setelah kematian?</p><p>Tapi, apa bekal kita? Apakah sudah cukup? Sudahkah kita cari-cari info tentang kehidupan setelah kematian? Seperti membaca buku atau mengikuti berbagai kajian.</p><h2 class=\"\">Bisakah Kita Mati dengan \"Pasrah\"?</h2><p>Ketika kematian itu datang, kita nggak bisa melawannya. Entah kita ini siapa; apakah seorang yang kaya, punya kekuatan yang besar, sangat rajin menjaga kesehatan. Kalau yang namanya kematian itu datang, mau kita cegah sekuat apapun, pasti akan kita alami. Jadi, aku pun kepikiran, bisa nggak ya, mati dengan pasrah? Toh, kita juga pasti mati, mau sekuat apapun melawannya. Yang penting, kita benar-benar sudah yakin bahwa setelah kematian ini adalah surga.</p><p>Kalau itu sudah kita pegang, janji bahwa kita pasti masuk surga dan nggak masuk neraka, sudah kita pegang, pasti kita akan bisa dengan pasrah menerima kematian yang menjemput kita.</p>",
 				"excerpt" : "<p>Aku kadang merasa aneh pada orang yang merasa bahwa nggak ada yang namanya kehidupan setelah kematian.</p><p>Padahal, kematian aja adalah nyata.</p><p>Kita semua pasti mengalami mati.</p><p>Jadi, nggak mungkin kan nggak ada kehidupan</p>",
-				"cover_image" : ""
-			},{
-				"title" : "Kenapa Harus Menulis",
-				"published_date" : "20230501163159785",
-				"slug" : "kenapa-harus-menulis",
-				"text" : "<p>Menulis itu candu. Menulis menimbulkan gairah. Menulis itu sunyi. Tapi dia adalah energi untuk kita lebih semangat dalam bekerja.</p><p>Baca juga: <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"./#tidak-perlu-merencanakan\">Tidak Perlu Merencanakan</a></p><p>Menulis itu membuatmu terus hidup. Karena yang namanya menulis itu kan satu paket dengan membaca. Kita membaca tulisan-tulisan kita sebelumnya. Maka, kita tidak akan merasa sepi. Apalagi, dengan menggunakan <a class=\"tc-tiddlylink tc-tiddlylink-missing\" href=\"./#tiddlywiki\">TiddlyWiki</a>, kegiatan menulis dan membaca nggak akan sulit lagi.</p>",
-				"excerpt" : "<p>Menulis itu candu. Menulis menimbulkan gairah. Menulis itu sunyi. Tapi dia adalah energi untuk kita lebih semangat dalam bekerja.</p><p>Baca juga: <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"./#tidak-perlu-merencanakan\">Tidak Perlu Merencanakan</a></p><p>Menulis itu membuatmu terus hidup. Karena yang namanya</p>",
 				"cover_image" : ""
 			},{
 				"title" : "Ketika Membaca Qur'an Tidak Membuat Tenang",
