@@ -29,10 +29,10 @@
 				"cover_image" : ""
 			},{
 				"title" : "Cara Menggunakan Plugin Laci",
-				"published_date" : "20230524010151370",
+				"published_date" : "20230524020730295",
 				"slug" : "cara-menggunakan-plugin-laci",
-				"text" : "<p>...</p>",
-				"excerpt" : "<p>...</p>",
+				"text" : "<p>Untuk menggunakannya, kodenya seperti ini:</p><pre><code>[laci judul='Judulnya']\nKontennya di sini\n[/laci]</code></pre><p>Selain shortcode <code>laci</code>, ada juga shortcode <code>laci2</code>, <code>laci3</code>, sampai <code>laci10</code>. Hasilnya sama. Fungsinya adalah jika kita ingin membuat laci di dalam laci. Contohnya seperti ini:</p><pre><code>[laci judul='Semua Buku']\nList buku yang harus dibeli:\n[laci2 judul='List']\n1. Matematika\n2. IPA\n3. IPS\n[/laci2]\n[/laci]</code></pre>",
+				"excerpt" : "<p>Untuk menggunakannya, kodenya seperti ini:</p><pre><code>[laci judul='Judulnya']\nKontennya di sini\n[/laci]</code></pre><p>Selain shortcode <code>laci</code>, ada juga shortcode <code>laci2</code>, <code>laci3</code>, sampai <code>laci10</code>. Hasilnya sama. Fungsinya adalah jika kita ingin membuat laci di dalam laci. Contohnya</p>",
 				"cover_image" : ""
 			},{
 				"title" : "Cara Menggunakan Plugin Profil Dosen",

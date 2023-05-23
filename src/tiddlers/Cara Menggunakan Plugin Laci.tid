@@ -1,8 +1,27 @@
 created: 20230523170121200
-modified: 20230523170151372
-published_date: 20230524010151370
+modified: 20230523180730295
+published_date: 20230524020730295
 tags: Published
 title: Cara Menggunakan Plugin Laci
 type: text/vnd.tiddlywiki
 
-...
+Untuk menggunakannya, kodenya seperti ini:
+
+```
+[laci judul='Judulnya']
+Kontennya di sini
+[/laci]
+```
+
+Selain shortcode `laci`, ada juga shortcode `laci2`, `laci3`, sampai `laci10`. Hasilnya sama. Fungsinya adalah jika kita ingin membuat laci di dalam laci. Contohnya seperti ini:
+
+```
+[laci judul='Semua Buku']
+List buku yang harus dibeli:
+[laci2 judul='List']
+1. Matematika
+2. IPA
+3. IPS
+[/laci2]
+[/laci]
+```
